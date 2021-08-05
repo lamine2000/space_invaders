@@ -1,7 +1,5 @@
 import time
 
-import pygame as pygame
-
 from mobile.mobile import *
 
 if __name__ == '__main__':
